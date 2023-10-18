@@ -1,6 +1,6 @@
 # Spring Boot "Microservice" Example Project
 
-This is a sample Java / Gradle / Spring Boot (version 2.4.0) as test project of social network by posting topics.
+Prototype of social network project.
 
 ## How to Run
 * Clone this repository
